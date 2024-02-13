@@ -1,17 +1,19 @@
 # Brewer
 
+Largely inspired by Iela's [guide](https://talontales.com/wiki/index.php/Biochemist_-_Iela%27s_Guide_to_Brewing)
+
 ## Stats
 
 Bio Naked (Marionette unbuffed & naked): **[calc](https://kutsuru.github.io/ttcalculator/?_w43CjFEOwoMwDEPCr8OCDcO4QsO8w7PCgcKQw4p2B8K7TcK1wpLCjQHChcO7E8Kpw6zCgxvDrEXCliwnwo7Dh8OAwpHCiSNow6PCuMOgwok7w5LCvH7DlmcgNBYdw5IDwpEmw5vDhcK1SAwEwqgiZsK1w6vCqQUsw5bDkl3Crx89HV3CsXzDuEHDscK/dEd6wodqw4ZHw6ogw5lvacOZw5N3PgE)**
 
-Bio Geared + Gospel + Buffs + Marionette (manually add 15 int, 49 dex, 49 luk): **[calc](https://kutsuru.github.io/ttcalculator/?_w43CjUsOw4IwDETCr8OCDVghw7YsUFACYsODAcOGwo5NwoNpw6kHw6jDtUkVFQQnw6BZw5Y8aSzCmcOhKFDCogDDisOjwqnDhQFnYMOsMCPCq2rDlsOKcmPDosOHwp0cw4UpK8OXQcKSBsOFwrTCkkHChBlZOcOvdMKYw6zCsgbCnsKAw6HCiy15w7JFacOPw67Cp33Cv8OXEnwiw7rCtATDhh/CsHnCpGtcNMKoZRllw6A+wrXDt3RrXg)**
+Bio Geared + Gospel + Buffs + Marionette (manually add 15 int, 49 dex, 49 luk): **[calc](https://kutsuru.github.io/ttcalculator/?_w43CjTEOw4IwDEXCr8OCDcOYwoAZKghKwqhYGBjCvx0bQmhpKcOQw6vCkyoCBCfDoFnClsKfw7Rtwplhw4hRIAdKZcKpQcKJA8OQwrd4IcKzwqNMwrLDhsK9FMKLwpUUw71awrZiwpTClSsnQcKdYmhJw4AjRsKKecK9w5VuwrDDkxR4wqRjfMKxJEs2K23DmMO8wqTDr8O3wpoHw6/CiD4pwoHDsQfDjMOvw6HDrEc1Khl7w6nDuBrCmlvCuMOUTw)**
 
 Final stats
 
 - Str 99+66
-- Int 77+105 = 182
-- Dex 36+153 = 189
-- Luk 39+152 = 191
+- Int 77+81 = 158
+- Dex 36+133 = 169
+- Luk 39+211 = 250
 
 [RMS Calculator (easier to use)](https://ratemyserver.net/brew_calc.php)
 
