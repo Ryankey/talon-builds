@@ -1,0 +1,82 @@
+Prof notes
+
+General notes
+	Each floor priority
+		Dispel champ
+		Put down the correct land
+
+	After mobbed/tanked
+		Wall of Fog
+		Monster Property
+
+	Regular battle
+		Dispel
+		Watch for moments to Soul Break for EQ
+		Keep up Wall of Fog
+		Near mid/end, give champ sp
+
+
+Questions
+	Wall of Fog
+		1 cell on champ, to avoid monster getting the effect and causing our snipers to miss (our snipers don't seem to be affected in pvp or against balls...)
+		Still confused on the "ranged skills go through it" - Does this mean that the WoF needs to be 1 cell on champ, not on the monsters, and not in the path of the snipers? (this seems to not apply, very confused by the wording)
+	Volcano default
+		I always understood this to be because most snipers are wearing fire armor by default, which gives them a dmg boost. - Confirmed
+
+
+
+
+Stairs with bapho and atroce
+Volcano
+Safety Wall
+Wall of fog
+Dispel
+(Bapho - Spell breaker? Hmmm. To stop EQ?)
+
+
+Puppies
+Unfro
+
+Violent Gale
+Dispel
+Volcano on 2nd pup
+
+Wall of fog front stack?
+Spell breaker?
+
+Power Rangers
+Volcano
+Wall of fog
+Dispel
+
+Dracula
+	Volcano
+	Wall of fog
+	dispel
+	Tank/sight
+
+Pront seal
+	volcano
+	Mob
+	Dispel
+
+Black orb map
+	Deluge
+	Wall of fog
+	Dispel
+
+
+
+
+New Seals
+
+
+Birth of a God
+the tldr for prof is:
+1. Cast LP on the LK tank during the Haldur fight
+2. Dispel Haldur a lot
+3. Wall of Fog party
+4. Use bathory / alice / gtb / hodrem (or bangungot)
+5. Give SP to tank if they are using GTB
+
+
