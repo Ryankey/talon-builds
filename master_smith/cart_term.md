@@ -18,6 +18,13 @@ https://skillsim.irowiki.org/wsm.html?10JbJiaSkAasaQqsedaSgBcFJy
 
 ## 
 
+## Gear
+
+### Always bring
+
+### Situational
+
+### Consumables
 
 ## SQI Cards + Bonuses
 
