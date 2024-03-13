@@ -32,24 +32,25 @@ Likely want to have Doppel with some combo of incantaction samurai (+65 ATK) or 
 
 Want
 
-* Spend 75% less zeny with all Zeny Skills.
-* [Over-Thrust] won't break party member weapons. Enable [Full Adrenaline Rush] without [Blacksmith Spirit].
-* For each mastered Forge Passive add ATK + 10 and DEF Pierce + 2%; but reduce HP Leech Script total amount by 50%.
-* Reduce [Cart Termination] and [Mammonite] SP costs by 50%
-** Spamming > constant drain
+- Spend 75% less zeny with all Zeny Skills.
+- [Over-Thrust] won't break party member weapons. Enable [Full Adrenaline Rush] without [Blacksmith Spirit].
+- For each mastered Forge Passive add ATK + 10 and DEF Pierce + 2%; but reduce HP Leech Script total amount by 50%.
+- Reduce [Cart Termination] and [Mammonite] SP costs by 50%
+  - Spamming > constant drain
 
 Other Options
 
-* Assume max weight for [Cart Revolution] and [Cart Termination] regardless of cart weight.
-** This is nice, but it's not a hard blocker - bring 4k meat and use the 8k personal weight for storage. We don't have a lot of lootable instances
-* Enable [Weapon Perfection] and [Power Maximize] effects all the time with no SP costs when these skills are mastered.
-** Another nice SP option but like... meh SP
+- Assume max weight for [Cart Revolution] and [Cart Termination] regardless of cart weight.
+  - This is nice, but it's not a hard blocker - bring 4k meat and use the 8k personal weight for storage. We don't have a lot of lootable instances
+- Enable [Weapon Perfection] and [Power Maximize] effects all the time with no SP costs when these skills are mastered.
+  - Another nice SP option but like... meh SP
 
-_721  - None
-_7212 - None
-_7214 - None
+| 0 | None |
+| --- | --- |
+| 2 | None |
+| 4 | None |
 
 ## Zeny costs
 
-1250z (5000z base) for Maximum Over Thrust every 3 minutes
-375z (1500z base) for CartTerm
+- 1250z (5000z base) for Maximum Over Thrust every 3 minutes
+- 375z (1500z base) for CartTerm

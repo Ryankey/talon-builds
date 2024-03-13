@@ -48,6 +48,10 @@
 
 ## Runs & things
 
++7 Baphomet Doppel
+
+
+
 ### OGH (& Hard Mode)
 
 - Orc Hero Mid

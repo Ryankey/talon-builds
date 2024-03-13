@@ -6,7 +6,7 @@
 
 ## Skills
 
-[calc build 1](https://skillsim.irowiki.org)
+[calc build 1](https://skillsim.irowiki.org/hpr.html?10dKdqsXdKhFbnnbqnqBInafcAJy)
 
 ### Required
 

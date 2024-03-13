@@ -6,7 +6,7 @@
 
 ## Skills
 
-[calc build 1](https://skillsim.irowiki.org)
+[calc build 1](https://skillsim.irowiki.org/pro.html?10docnoXeBINl1CgRrFlaeBqAabdx)
 
 ### Required
 
@@ -21,3 +21,13 @@
 ### Consumables
 
 ## SQI Cards + Bonuses
+
+
+## Instances
+
+### Seals
+
+- Marc
+- RSX
+- Bathory
+- Maybe Holy

@@ -6,7 +6,7 @@ Largely inspired by Iela's [guide](https://talontales.com/wiki/index.php/Biochem
 
 Bio Naked (Marionette unbuffed & naked): **[calc](https://kutsuru.github.io/ttcalculator/?_w43CjFEOwoMwDEPCr8OCDcO4QsO8w7PCgcKQw4p2B8K7TcK1wpLCjQHChcO7E8Kpw6zCgxvDrEXCliwnwo7Dh8OAwpHCiSNow6PCuMOgwok7w5LCvH7DlmcgNBYdw5IDwpEmw5vDhcK1SAwEwqgiZsK1w6vCqQUsw5bDkl3Crx89HV3CsXzDuEHDscK/dEd6wodqw4ZHw6ogw5lvacOZw5N3PgE)**
 
-Bio Geared + Gospel + Buffs + Marionette (manually add 15 int, 49 dex, 49 luk): **[calc](https://kutsuru.github.io/ttcalculator/?_w43CjTEOw4IwDEXCr8OCDcOYwoAZKghKwqhYGBjCvx0bQmhpKcOQw6vCkyoCBCfDoFnClsKfw7Rtwplhw4hRIAdKZcKpQcKJA8OQwrd4IcKzwqNMwrLDhsK9FMKLwpUUw71awrZiwpTClSsnQcKdYmhJw4AjRsKKecK9w5VuwrDDkxR4wqRjfMKxJEs2K23DmMO8wqTDr8O3wpoHw6/CiD4pwoHDsQfDjMOvw6HDrEc1Khl7w6nDuBrCmlvCuMOUTw)**
+Bio Geared + Gospel + Buffs + Marionette (manually add 10 int, 49 dex, 49 luk): **[calc](https://kutsuru.github.io/ttcalculator/?_w43CjTEOw4IwDEXCr8OCDcOYwoAZKghKwqhYGBjCvx0bQmhpKcOQw6vCkyoCBCfDoFnClsKfw7Rtwplhw4hRIAdKZcKpQcKJA8OQwrd4IcKzwqNMwrLDhsK9FMKLwpUUw71awrZiwpTClSsnQcKdYmhJw4AjRsKKecK9w5VuwrDDkxR4wqRjfMKxJEs2K23DmMO8wqTDr8O3wpoHw6/CiD4pwoHDsQfDjMOvw6HDrEc1Khl7w6nDuBrCmlvCuMOUTw)**
 
 Final stats
 
@@ -18,6 +18,15 @@ Final stats
 [RMS Calculator (easier to use)](https://ratemyserver.net/brew_calc.php)
 
 [Gypsy Stats](https://kutsuru.github.io/ttcalculator/?_S050S8OySUzCgsOAJG8gw487ERXCpMKaw4LCmcOJw4XCicKJKUBuamnCqltiYloSEGcAcSEEQ1RDacKgXGJeSsOiIANOwqXCmTkpCnnCicK5wqnDuinCqcOFw4lFwpkFJcKZw7l5AA)
+
+### My missing stats
+
+- Monsoon beach manteau (+1 int) (0.05%)
+- Dominatrix (Zealotus) +2 Luk (0.2%)
+- Djinn (Injustice) +3 (0.3%) luk if zealotus shield - is this worth it? Need to figure out AD carding and if this will destroy it 
+- Level 70 job (-3 job levels = 0.6%)
+- lvl 99 homunc (2.5%)
+- Evolved homunc (2.5%)
 
 ## Skills
 
